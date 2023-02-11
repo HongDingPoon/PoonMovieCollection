@@ -1,23 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6dacd35c-48ac-4d8a-8225-36782c5217f6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PoonMovieCollection.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Cereal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CerealCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/CerealCollectionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Movie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MovieCollection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MovieCollectionRunner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/cereal.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/movies_data.csv" afterDir="false" />
-    </list>
+    <list default="true" id="6dacd35c-48ac-4d8a-8225-36782c5217f6" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,6 +53,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676132064668</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1676133349083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676133349083</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -81,5 +73,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>
